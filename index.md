@@ -28,3 +28,8 @@ def factorial(n):
 # Example usage
 number = 5
 print(f"The factorial of {number} is {factorial(number)}")
+```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
